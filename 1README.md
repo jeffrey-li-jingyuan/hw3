@@ -1,5 +1,5 @@
 # hw3
-<b/>
+<b>
 What code draws the blades of grass?
 <b/>
 "line(x, height-10, x+random(-10, 10), height-10-random(h))" draws the blades of the grass.</b>
