@@ -14,3 +14,14 @@ What's the point of the h variable?<br><b/>
 It helps determine the height of the grass. h is the distance of the point from the bottom of the image.<br>
 What does the -10 do in the second and fourth arguments of the line function, height-10-random(h)? Why is it there?<br><b/>
 This part of argument determines the height of the grass. The greater the h, the higher the grass.
+<br>
+<br>
+<br>
+
+
+What's the point of an object?<br>
+A set object could provide a set of datas, which is helpful to bundle up datas. 
+What's an example of a range you might use for the map function?<br>
+I can map the width / height of the canvas related to color range, for instance, map a 400px wide canvas with 256 rgb values.
+What line of code would give me a random year in the last century?<br>
+Under function draw, "text(int(random(1900, 2000)), 10, 10, 70, 80);" would do the job.
