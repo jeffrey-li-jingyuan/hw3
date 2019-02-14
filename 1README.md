@@ -1,6 +1,7 @@
 # hw3
 </b>
-What code draws the blades of grass?</b>
+What code draws the blades of grass?
+</b>
 "line(x, height-10, x+random(-10, 10), height-10-random(h))" draws the blades of the grass.</b>
 "stroke(random(60, 70), 100, 90);" under function draw decides the colors of the grass.</b>
 What code makes the "lawnmower" come by? How often does it come by?</b>
