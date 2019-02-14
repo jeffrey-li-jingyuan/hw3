@@ -20,8 +20,8 @@ This part of argument determines the height of the grass. The greater the h, the
 
 
 What's the point of an object?<br>
-A set object could provide a set of datas, which is helpful to bundle up datas. 
+A set object could provide a set of datas, which is helpful to bundle up datas. <br>
 What's an example of a range you might use for the map function?<br>
 I can map the width / height of the canvas related to color range, for instance, map a 400px wide canvas with 256 rgb values.<br>
 What line of code would give me a random year in the last century?<br>
-Under function draw, "text(int(random(1900, 2000)), 10, 10, 70, 80);" would do the job.
+Under function draw, "text(int(random(1900, 2000)), 10, 10, 70, 80);" would do the job.<br>
